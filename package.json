@@ -1,6 +1,6 @@
 {
   "name": "configd-json5",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Configd json5 plugin",
   "main": "index.js",
   "scripts": {
